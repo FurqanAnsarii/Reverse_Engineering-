@@ -1,0 +1,8 @@
+# THE SENTINEL & NEXUS SUITE
+# Dependencies for Forensic & Reverse Engineering Tools
+# Developed by Furqan Ansari
+
+colorama==0.4.6
+pyelftools==0.29
+capstone==5.0.1
+
